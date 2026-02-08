@@ -1,0 +1,8 @@
+{
+  "name": "Keep Found",
+  "description": "A calm, privacy-first memory assistant to help you remember where you put your things. Features voice search and photo support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
